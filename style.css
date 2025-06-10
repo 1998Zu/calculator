@@ -38,6 +38,10 @@ p{
     border-radius: 10px;
 }
 
+
+#Clear {
+    width: 80px;
+}
 button {
     height: 50px;
     width: 50px;
